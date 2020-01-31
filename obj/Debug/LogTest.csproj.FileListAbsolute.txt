@@ -1,0 +1,9 @@
+C:\Users\cplankm\source\repos\LogTest\bin\Debug\log4net.config
+C:\Users\cplankm\source\repos\LogTest\bin\Debug\LogTest.exe.config
+C:\Users\cplankm\source\repos\LogTest\bin\Debug\LogTest.exe
+C:\Users\cplankm\source\repos\LogTest\bin\Debug\LogTest.pdb
+C:\Users\cplankm\source\repos\LogTest\bin\Debug\log4net.dll
+C:\Users\cplankm\source\repos\LogTest\bin\Debug\log4net.xml
+C:\Users\cplankm\source\repos\LogTest\obj\Debug\LogTest.csproj.CopyComplete
+C:\Users\cplankm\source\repos\LogTest\obj\Debug\LogTest.exe
+C:\Users\cplankm\source\repos\LogTest\obj\Debug\LogTest.pdb
